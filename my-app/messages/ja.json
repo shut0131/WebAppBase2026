@@ -1,0 +1,11 @@
+{
+  "Home": {
+    "title": "page.tsxファイルを編集して始めましょう。",
+    "description": "スタートポイントやより詳しい手順をお探しですか？<templates>テンプレート</templates>や<learning>ラーニング</learning>センターをご覧ください。",
+    "deployNow": "デプロイ",
+    "documentation": "ドキュメント"
+  },
+  "LanguageSwitcher": {
+    "label": "言語"
+  }
+}

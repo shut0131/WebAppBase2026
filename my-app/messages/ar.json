@@ -1,0 +1,11 @@
+{
+  "Home": {
+    "title": "للبدء، قم بتحرير ملف page.tsx.",
+    "description": "هل تبحث عن نقطة بداية أو مزيد من التعليمات؟ توجه إلى <templates>القوالب</templates> أو مركز <learning>التعلم</learning>.",
+    "deployNow": "نشر الآن",
+    "documentation": "التوثيق"
+  },
+  "LanguageSwitcher": {
+    "label": "اللغة"
+  }
+}
