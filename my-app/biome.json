@@ -10,7 +10,10 @@
     "includes": [
       "**/*.ts",
       "**/*.tsx",
-      "**/*.js"
+      "**/*.js",
+      "!.next",
+      "!node_modules",
+      "!playwright-report"
     ]
   },
   "formatter": {
